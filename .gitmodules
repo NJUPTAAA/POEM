@@ -1,0 +1,9 @@
+[submodule "parser/Composer"]
+	path = parser/Composer
+	url = https://github.com/NJUPTAAA/POEM_Composer.git
+[submodule "parser/NPM"]
+	path = parser/NPM
+	url = https://github.com/NJUPTAAA/POEM_NPM.git
+[submodule "parser/Python"]
+	path = parser/Python
+	url = https://github.com/NJUPTAAA/POEM_python.git
