@@ -7,3 +7,6 @@
 [submodule "parser/Python"]
 	path = parser/Python
 	url = https://github.com/NJUPTAAA/POEM_python.git
+[submodule "editor/POET"]
+	path = editor/POET
+	url = https://github.com/NJUPTAAA/POET.git
